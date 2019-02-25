@@ -33,13 +33,13 @@ server/domain. In that case there is the following option (-wbe):
 python3 simple-oob-scanner.py -b my-server.com -wbe -u example/url_list.txt -t 25 -to 10 -m POST
 ```
 
-#### How it looks
+#### How it looks like
 
 Here you can see the tool in action. 
 
 ![Request](https://i.imgur.com/P7IEAuV.png)
 
-The response is visible withing burp:
+The response is visible within burp:
 
 ![Burp](https://i.imgur.com/g5JlDi4.png)
 
