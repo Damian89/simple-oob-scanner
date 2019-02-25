@@ -16,6 +16,11 @@
 #
 #  Author: Damian Schwyrz
 
+import sys
+
+if sys.version_info < (3, 0):
+    sys.stdout.write("Sorry, requires Python 3.x\n")
+    sys.exit(1)
 
 from inc.worker import WorkerThread
 from inc.arguments import getArguments
