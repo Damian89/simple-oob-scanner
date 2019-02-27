@@ -56,17 +56,11 @@ def getArguments():
         default="GET",
         choices=[
             "GET",
-            "get",
             "POST",
-            "post",
             "HEAD",
-            "head"
             "PUT",
-            "put",
             "OPTIONS",
-            "options",
             "DELETE",
-            "delete",
         ]
     )
 

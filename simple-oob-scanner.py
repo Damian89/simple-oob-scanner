@@ -32,7 +32,6 @@ import time
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
-
 def main():
     burp_url, wo_burp_extend, url_list, max_threads, method, timeout = getArguments()
 
