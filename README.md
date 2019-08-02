@@ -1,3 +1,8 @@
+# Arcvhived!
+
+Hey, this project is archived! You should use one of my other tools. Check this out, its mightier:
+https://github.com/Damian89/extended-ssrf-search
+
 ### Simple "OOB Read/SSRF" via Path"-Scanner
 
 Quick and dirty, based on a finding some days ago which allowed access to the internal network of a known company. 
@@ -63,3 +68,10 @@ optional arguments:
                         Timeout in seconds for each request, default: 3
   -m {GET,get,POST,post,HEAD,headPUT,put,OPTIONS,options,DELETE,delete}, --method {GET,get,POST,post,HEAD,headPUT,put,OPTIONS,options,DELETE,delete}
 ```
+
+## Support
+
+Do you like that tool? Did it help you to get a bounty? Want to give something back/support me? Why not!<br />
+
+#### Donate via PayPal: <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PPHDNEJWY5UXJ&source=url">CLICK</a>
+
